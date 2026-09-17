@@ -15,7 +15,7 @@ public class TakingTurnsQueueTests
     // return people with remaining turns to the back of the queue, and remove them when their
     // turns reached zero.
 
-public void TestTakingTurnsQueue_FiniteRepetition()
+
     public void TestTakingTurnsQueue_FiniteRepetition()
     {
         var bob = new Person("Bob", 2);
